@@ -26,10 +26,10 @@
     "D8FFFFFFFD7A" : "Outside Garden"
   },
   "identifiers" : {
-    "interface" : "wlp1s0",
-    "location" : "home",
-    "zone" : "masterBedroom",
-    "gatewayType" : "PiZero"
+    "interface" : "eth0",
+    "location" : "kindlestown",
+    "zone" : "attic",
+    "gatewayType" : "Pi4"
   },
   "endpoints" : {
       "mqttEnabled" : true,
